@@ -29,4 +29,4 @@ npm start
 
 ## Preview exam 2
 
-![Alt](/public/exam2.png "App")
+![Alt](/public/exam2.PNG "App")
