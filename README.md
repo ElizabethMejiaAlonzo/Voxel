@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
 
+You can see the app on [FireBase Hosting - FileUpload/CovidMap](https://fileupload-3e4fd.firebaseapp.com/)
+
 ## Get the Code
 ```
 git clone https://github.com/ElizabethMejiaAlonzo/Voxel.git
