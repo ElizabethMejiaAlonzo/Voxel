@@ -4,11 +4,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Get the Code
 ```
-git clone https://github.com/
+git clone https://github.com/ElizabethMejiaAlonzo/Voxel.git
 
-cd 
+cd Voxel
 
-npm i
+npm i or npm install
 ```
 
 ## Development server
@@ -26,3 +26,7 @@ npm start
 ## Preview exam 1
 
 ![Alt](/public/exam1.png "App")
+
+## Preview exam 2
+
+![Alt](/public/exam2.png "App")
