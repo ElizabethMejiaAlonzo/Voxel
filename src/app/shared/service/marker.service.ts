@@ -1,8 +1,8 @@
 import { Injectable } from '@angular/core';
 import { DataCovidService } from './dataCovid.service';
 import * as L from 'leaflet';
-import { Country } from '../Models/Country.model';
 import { icon } from 'leaflet';
+import { Country } from '../models/country.model';
 
 @Injectable({
     providedIn: 'root'
